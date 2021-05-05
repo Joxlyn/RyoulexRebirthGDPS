@@ -1,3 +1,7 @@
 launcherBETA = 1
 ftpBETA = 1
 databaseBETA = 1
+
+launcher = 1
+ftp = 1
+database = 1
