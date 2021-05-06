@@ -1,7 +1,10 @@
+globalBETA = 0
 launcherBETA = 0
 ftpBETA = 0
 databaseBETA = 0
 
+global = 1
 launcher = 1
 ftp = 1
 database = 1
+
