@@ -1,6 +1,6 @@
-launcherBETA = 1
-ftpBETA = 1
-databaseBETA = 1
+launcherBETA = 0
+ftpBETA = 0
+databaseBETA = 0
 
 launcher = 1
 ftp = 1
